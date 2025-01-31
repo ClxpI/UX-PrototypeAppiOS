@@ -71,7 +71,8 @@ Here are some screenshots from the app:
 ![quiz](https://github.com/user-attachments/assets/03c9a0a7-6a8f-429c-a1a0-c9effc6cd8dc)
 
 11. **Chatbot**
-   - ***Admin Chat***  
+   - ***Admin Chat***
+
 ![admin_chat](https://github.com/user-attachments/assets/d4b953fe-f294-4902-8dfc-59b1aaa86459)
 
    - ***User Chat***
