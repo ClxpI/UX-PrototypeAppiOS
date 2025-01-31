@@ -68,7 +68,6 @@ Here are some screenshots from the app:
 ![examples](https://github.com/user-attachments/assets/3356ec5f-ea85-48f9-aea4-7d0503345aef)
 
 10. **Quiz**  
-    ![Quiz](assets/quiz.png)
 ![quiz](https://github.com/user-attachments/assets/03c9a0a7-6a8f-429c-a1a0-c9effc6cd8dc)
 
 11. **Chatbot**
