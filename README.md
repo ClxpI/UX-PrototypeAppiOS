@@ -75,5 +75,6 @@ Here are some screenshots from the app:
 ![admin_chat](https://github.com/user-attachments/assets/d4b953fe-f294-4902-8dfc-59b1aaa86459)
 
    - ***User Chat***
+
 ![user_chat](https://github.com/user-attachments/assets/74e616e8-7122-43aa-9c98-70c55ea7e8d3)
 
