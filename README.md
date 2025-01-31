@@ -15,6 +15,8 @@ An iOS prototype app designed for self-learning in computer science. This app al
   - **Examples**: Python code snippets demonstrating list operations.
   - **Quiz**: Interactive quiz with programmed interactivity.
   - **Chatbot**: Assistant for answering user questions.
+
+
 ![image](https://github.com/user-attachments/assets/56f9b730-511e-42e5-845b-2c6731317d54)
 
 ---
@@ -30,6 +32,7 @@ An iOS prototype app designed for self-learning in computer science. This app al
 - Example:
   - **Correct Answer**: Score updates using `[[Score+1]]`.
   - **Incorrect Answer**: Score remains unchanged with the message displayed.
+
 ![image](https://github.com/user-attachments/assets/5af2a7e2-1526-4f01-a8cd-996850b1eadf)
 
 ---
